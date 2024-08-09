@@ -1,8 +1,3 @@
-# Nextjs-React-Miletones
-This is Nextjs and React learning and Project Repo
-
-
-
 
 # Configuration files:
 ##### next.config.js:	   *Configuration file for Next.js*
